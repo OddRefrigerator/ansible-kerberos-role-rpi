@@ -1,0 +1,6 @@
+timeZone: America/Toronto
+hostName: auth.home.com
+realm: HOME.COM
+kDBpw: password123
+kdcSRV: auth.home.com
+adminSRV: auth.home.com
