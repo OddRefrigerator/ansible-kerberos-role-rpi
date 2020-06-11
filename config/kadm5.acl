@@ -4,3 +4,6 @@
 # ending in /admin  is given full administrative rights.
 # To enable this, uncomment the following line:
 */admin *
+*/manager *
+*/*@HOME.COM  i
+*@HOME.COM    i
