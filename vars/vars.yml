@@ -1,0 +1,6 @@
+timeZone: America/Toronto
+hostName: auth.home.local
+realm: home.local
+kDBpw: password123
+kdcSRV: auth.home.local
+adminSRV: auth.home.local
