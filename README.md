@@ -1,2 +1,5 @@
-# ansible-bind9-dns-forward-role-rpi
-ansible playbook to install bind9 on Raspbian for home DNS
+# ansible-kerberos-role-rpi
+Ansible playbook to install Kerberos 5 on Raspbian
+
+# Run with
+ansible-playbook main.yml
